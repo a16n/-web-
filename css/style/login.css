@@ -1,0 +1,51 @@
+body {
+    font-family: "楷体","楷体_GB2312";
+    background-image: url(../../img/bgp.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#login_1 {
+    margin-top: 10%;
+    margin-left: 35%;
+    width: 30%;
+    height: 60%;
+
+    background-color: #ffffff70;
+    
+}
+
+#login_1 .username{
+    margin-top: 0%;
+    margin-left: 10%;
+    width: 75%;
+    height: 8%;
+
+    border-radius: 5px;
+    border-color: rgb(80, 216, 250);
+}
+
+#login_1 .password {
+    margin-top: 3%;
+    margin-left: 10%;
+    width: 75%;
+    height: 8%;
+
+    border-radius: 5px;
+    border-color: rgb(80, 216, 250);
+}
+
+
+
+#login_1 .regi {
+    font-family: "楷体","楷体_GB2312";
+    font-size: 20px;
+
+    margin-top: 10%;
+    margin-left: 13.4%;
+    width: 30%;
+    height: 8%;
+
+    background-color: aquamarine;
+    border-radius: 5px;
+}

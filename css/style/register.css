@@ -1,0 +1,102 @@
+body {
+    font-family: "楷体","楷体_GB2312";
+    background-image: url(../../img/bgp.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#login_1 {
+    margin-top: 10%;
+    margin-left: 35%;
+    width: 30%;
+    height: 80%;
+
+    background-color: #ffffff70;
+    
+}
+
+#login_1 .username{
+    margin-top: 0%;
+    margin-left: 10%;
+    width: 75%;
+    height: 8%;
+
+    border-radius: 5px;
+    border-color: rgb(80, 216, 250);
+}
+
+#login_1 .password {
+    margin-top: 3%;
+    margin-left: 10%;
+    width: 75%;
+    height: 8%;
+
+    border-radius: 5px;
+    border-color: rgb(80, 216, 250);
+}
+
+#login_1 .confirm {
+    margin-top: 3%;
+    margin-left: 10%;
+    width: 75%;
+    height: 8%;
+
+    border-radius: 5px;
+    border-color: rgb(80, 216, 250);
+}
+
+#login_1 .email {
+    margin-top: 3%;
+    margin-left: 10%;
+    width: 75%;
+    height: 8%;
+
+    border-radius: 5px;
+    border-color: rgb(80, 216, 250);
+}
+
+#login_1 .address {
+    margin-top: 3%;
+    margin-left: 10%;
+    width: 75%;
+    height: 8%;
+
+    border-radius: 5px;
+    border-color: rgb(80, 216, 250);
+}
+
+#login_1 .phone {
+    margin-top: 3%;
+    margin-left: 10%;
+    width: 75%;
+    height: 8%;
+
+    border-radius: 5px;
+    border-color: rgb(80, 216, 250);
+}
+
+#login_1 .login {
+    font-family: "楷体","楷体_GB2312";
+    font-size: 20px;
+
+    margin-top: -13.6%;
+    margin-left: 55.4%;
+    width: 30%;
+    height: 8%;
+
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+
+#login_1 .register {
+    font-family: "楷体","楷体_GB2312";
+    font-size: 20px;
+
+    margin-top: 10%;
+    margin-left: 10%;
+    width: 30%;
+    height: 8%;
+
+    background-color: aquamarine;
+    border-radius: 5px;
+}
